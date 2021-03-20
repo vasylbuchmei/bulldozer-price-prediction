@@ -2,7 +2,7 @@
 The goal is to predict selling price of bulldozers
 
 # Technologies used:
-* Scikit-learn
+* Scikit-learn (RandomForestRegressor)
 * Pandas
 * NumPy
 * Matplotlib
